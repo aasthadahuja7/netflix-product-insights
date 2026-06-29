@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic](https://i.ibb.co/Q81WwRN/92399716.jpg)</p>
+# <p align="center">![Pic](https://imgs.search.brave.com/-Wxb-E9seovwKq7vFLNpwn_BHSSXw-7wj3u47jdZuN0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAzLzQ4LzgxLzc3/LzM2MF9GXzM0ODgx/Nzc4OV8yNU9XekpT/bXo4cGJGT2M4SFJo/eEVlTXBkWUJQZXU3/WC5qcGc)</p>
 
 **Tools Used:** Excel, MySQL, Power BI
 
